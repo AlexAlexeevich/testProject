@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        System.out.println("test project 3");
         Animal dog = new Animal(5);
     }
 }
